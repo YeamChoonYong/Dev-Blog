@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>DevBlog</title>
+    <title>Justin's DevBlog</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <h1>Week 2 Blog</h1>
     <p>
-      
+      I learnt about CSS and how it can be used to make a webpage look more visually appealing.
     </p>
   </body>
 </html>
